@@ -173,7 +173,7 @@ I would like to thank... all who and all are fallowing me
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- LICENSE -->
 
