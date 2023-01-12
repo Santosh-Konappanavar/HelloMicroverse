@@ -179,9 +179,9 @@ This feature is yet to be added
 
 👤 **Author**
 
-- GitHub: [@Santosh](https://github.com/Santosh-Konappanavar/HelloMicroverse)
-- Twitter: [@Santosh](https://twitter.com/SantoshKonappa1)
-- LinkedIn: [Samntosh Konappanavar](https://www.linkedin.com/in/santosh-konappanavar/)
+- GitHub: [@Santosh-Konappanavar](https://github.com/Santosh-Konappanavar/HelloMicroverse)
+- Twitter: [@SantoshKonapp1](https://twitter.com/SantoshKonappa1)
+- LinkedIn: [@Samntosh Konappanavar](https://www.linkedin.com/in/santosh-konappanavar/)
 
 
 
